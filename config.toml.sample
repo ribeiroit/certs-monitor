@@ -1,0 +1,4 @@
+LogPath = "/var/log/certs-monitor/"
+LogFile = "scan.log"
+UrlFile = "./urls.txt"
+UrlConcurrency = 5

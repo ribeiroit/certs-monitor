@@ -1,0 +1,5 @@
+scan
+*.log
+urls.txt
+*.toml
+vendor/*
